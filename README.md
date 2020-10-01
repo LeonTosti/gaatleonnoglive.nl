@@ -1,5 +1,5 @@
 # gaatleonnoglive.nl
-Website that shows if om going live at Twitch
+Website that shows if i go live at Twitch
 
 This will be in Dutch
 
